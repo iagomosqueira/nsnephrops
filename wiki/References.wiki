@@ -1,0 +1,8 @@
+#references
+
+  * [pdf/DichmontDP06.pdf]
+  * pdf/DichmontDP06b.pdf
+  * pdf/DichmontDP06c.pdf
+  * pdf/DichmontPDD03.pdf
+  * pdf/Punt03.pdf
+  * pdf/SmithA03.pdf

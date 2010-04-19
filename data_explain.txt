@@ -1,0 +1,20 @@
+Units for the quarterly LD are biomass at length from the fishery
+
+Weight length model parameters are as follows
+
+Males, a=0.00038, b-3.17
+Females, a=0.00091, b=2.895
+
+Model is weight=(length^b)*a
+
+Landings are in tonnes, effort in arbitrary units.
+Lencat is length of vessel (uner 10m and over 10m).
+
+season = quarter
+1= Winter
+2=Spring
+3=Summer
+4=Autumn
+
+Survey indices for Nephrops sent by Ewen in numbers???? in tonnes???
+
